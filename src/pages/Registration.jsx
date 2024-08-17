@@ -78,7 +78,7 @@ const Registration = () => {
 
 <div className="pt-2">
     <button className="bg-gradient-to-r from-orange-800 to-slate-900 px-4 py-2 rounded-lg text-lg text-white " type="submit"> Sign Up </button>
-    <Link to='/login'>
+    <Link to='/'>
     <button className="bg-gradient-to-r from-slate-700   to-red-900 px-6 py-2 rounded-lg text-lg text-white  ml-3  " type="submit"> Login </button>
     </Link>
 </div>
