@@ -5,7 +5,7 @@ const Products = () => {
 const [data,setData]=useState()
 
 // useEffect(
-    
+    // 
 // ,[] )
     
     return (
