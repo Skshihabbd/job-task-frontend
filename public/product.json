@@ -1,402 +1,402 @@
 [
     {
         "Index": 1,
-        "Product Name": "Dell XPS 13",
-        "Product Image": "https://i.ibb.co/fS8cyQn/inspiron-15-3520-black-01-500x500.webp",
+        "Product_Name": "Dell XPS 13",
+        "Product_Image": "https://i.ibb.co/fS8cyQn/inspiron-15-3520-black-01-500x500.webp",
         "Description": "A high-performance laptop with an InfinityEdge display and sleek design.",
         "Price": 999.99,
         "Category": "Ultrabook",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-08-15T14:32:00"
+        "Product_Creation_date_and_time": "2024-08-15T14:32:00"
     },
     {
         "Index": 2,
-        "Product Name": "MacBook Pro 16\"",
-        "Product Image": "https://i.ibb.co/0qN00xq/inspiron-15-3515-03-500x500.jpg",
+        "Product_Name": "MacBook Pro 16\"",
+        "Product_Image": "https://i.ibb.co/0qN00xq/inspiron-15-3515-03-500x500.jpg",
         "Description": "A powerful laptop with the M1 chip, designed for professionals.",
         "Price": 2499.99,
         "Category": "Pro Laptop",
         "Ratings": 4.9,
-        "Product Creation date and time": "2024-08-14T09:22:00"
+        "Product_Creation_date_and_time": "2024-08-14T09:22:00"
     },
     {
         "Index": 3,
-        "Product Name": "HP Spectre x360",
-        "Product Image": "https://i.ibb.co/vknTjcv/latitude-3430-01-500x500.webp",
+        "Product_Name": "HP Spectre x360",
+        "Product_Image": "https://i.ibb.co/vknTjcv/latitude-3430-01-500x500.webp",
         "Description": "A versatile 2-in-1 laptop with a stunning 4K display.",
         "Price": 1399.99,
         "Category": "Convertible",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-08-13T11:45:00"
+        "Product_Creation_date_and_time": "2024-08-13T11:45:00"
     },
     {
         "Index": 4,
-        "Product Name": "Lenovo ThinkPad X1 Carbon",
-        "Product Image": "https://i.ibb.co/q1gVFxN/latitude-3430-03-500x500.webp",
+        "Product_Name": "Lenovo ThinkPad X1 Carbon",
+        "Product_Image": "https://i.ibb.co/q1gVFxN/latitude-3430-03-500x500.webp",
         "Description": "A lightweight and durable laptop with a focus on business productivity.",
         "Price": 1799.99,
         "Category": "Business Laptop",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-08-12T16:30:00"
+        "Product_Creation_date_and_time": "2024-08-12T16:30:00"
     },
     {
         "Index": 5,
-        "Product Name": "Asus ROG Zephyrus G14",
-        "Product Image": "https://i.ibb.co/pntcW7f/latitude-3430-04-500x500.webp",
+        "Product_Name": "Asus ROG Zephyrus G14",
+        "Product_Image": "https://i.ibb.co/pntcW7f/latitude-3430-04-500x500.webp",
         "Description": "A gaming laptop with powerful performance and a compact design.",
         "Price": 1599.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-08-11T13:22:00"
+        "Product_Creation_date_and_time": "2024-08-11T13:22:00"
     },
     {
         "Index": 6,
-        "Product Name": "Acer Swift 3",
-        "Product Image": "https://i.ibb.co/R4DxYZL/latitude-3430-06-500x500.webp",
+        "Product_Name": "Acer Swift 3",
+        "Product_Image": "https://i.ibb.co/R4DxYZL/latitude-3430-06-500x500.webp",
         "Description": "An affordable laptop with solid performance and a lightweight build.",
         "Price": 749.99,
         "Category": "Budget Laptop",
         "Ratings": 4.4,
-        "Product Creation date and time": "2024-08-10T10:05:00"
+        "Product_Creation_date_and_time": "2024-08-10T10:05:00"
     },
     {
         "Index": 7,
-        "Product Name": "Microsoft Surface Laptop 4",
-        "Product Image": "https://i.ibb.co/BLgZ0Mz/ideapad-slim-5i-pro-02-500x500.webp",
+        "Product_Name": "Microsoft Surface Laptop 4",
+        "Product_Image": "https://i.ibb.co/BLgZ0Mz/ideapad-slim-5i-pro-02-500x500.webp",
         "Description": "A sleek laptop with a touchscreen display and long battery life.",
         "Price": 1299.99,
         "Category": "Ultrabook",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-08-09T14:50:00"
+        "Product_Creation_date_and_time": "2024-08-09T14:50:00"
     },
     {
         "Index": 8,
-        "Product Name": "Razer Blade 15",
-        "Product Image": "https://i.ibb.co/0qN00xq/inspiron-15-3515-03-500x500.jpg",
+        "Product_Name": "Razer Blade 15",
+        "Product_Image": "https://i.ibb.co/0qN00xq/inspiron-15-3515-03-500x500.jpg",
         "Description": "A premium gaming laptop with a thin design and top-tier graphics.",
         "Price": 2199.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.9,
-        "Product Creation date and time": "2024-08-08T12:40:00"
+        "Product_Creation_date_and_time": "2024-08-08T12:40:00"
     },
     {
         "Index": 9,
-        "Product Name": "Apple MacBook Air M1",
-        "Product Image": "https://i.ibb.co/489rGyF/latitude-3430-03-500x500.webp",
+        "Product_Name": "Apple MacBook Air M1",
+        "Product_Image": "https://i.ibb.co/489rGyF/latitude-3430-03-500x500.webp",
         "Description": "A lightweight and fast laptop with the M1 chip for everyday tasks.",
         "Price": 999.99,
         "Category": "Ultrabook",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-08-07T11:15:00"
+        "Product_Creation_date_and_time": "2024-08-07T11:15:00"
     },
     {
         "Index": 10,
-        "Product Name": "LG Gram 17",
-        "Product Image": "https://i.ibb.co/Y2PX0hG/latitude-3430-04-500x500.webp",
+        "Product_Name": "LG Gram 17",
+        "Product_Image": "https://i.ibb.co/Y2PX0hG/latitude-3430-04-500x500.webp",
         "Description": "An ultra-light laptop with a large 17-inch display and long battery life.",
         "Price": 1699.99,
         "Category": "Ultrabook",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-08-06T15:28:00"
+        "Product_Creation_date_and_time": "2024-08-06T15:28:00"
     },
     {
         "Index": 11,
-        "Product Name": "MSI GS66 Stealth",
-        "Product Image": "https://i.ibb.co/KwyJdpw/latitude-3430-06-500x500.webp",
+        "Product_Name": "MSI GS66 Stealth",
+        "Product_Image": "https://i.ibb.co/KwyJdpw/latitude-3430-06-500x500.webp",
         "Description": "A high-performance gaming laptop with a sleek and understated design.",
         "Price": 1899.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-08-05T14:12:00"
+        "Product_Creation_date_and_time": "2024-08-05T14:12:00"
     },
     {
         "Index": 12,
-        "Product Name": "Dell Inspiron 15 7000",
-        "Product Image": "https://i.ibb.co/j9NMwD2/legion-slim-5-16ahp9-01-500x500.webp",
+        "Product_Name": "Dell Inspiron 15 7000",
+        "Product_Image": "https://i.ibb.co/j9NMwD2/legion-slim-5-16ahp9-01-500x500.webp",
         "Description": "A well-rounded laptop with a balance of performance and affordability.",
         "Price": 849.99,
         "Category": "Mid-range Laptop",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-08-04T10:45:00"
+        "Product_Creation_date_and_time": "2024-08-04T10:45:00"
     },
     {
         "Index": 13,
-        "Product Name": "Google Pixelbook Go",
-        "Product Image": "https://i.ibb.co/gZtLKMP/legion-slim-5-16ahp9-03-500x500.webp",
+        "Product_Name": "Google Pixelbook Go",
+        "Product_Image": "https://i.ibb.co/gZtLKMP/legion-slim-5-16ahp9-03-500x500.webp",
         "Description": "A sleek and lightweight Chromebook with a premium build.",
         "Price": 649.99,
         "Category": "Chromebook",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-08-03T13:22:00"
+        "Product_Creation_date_and_time": "2024-08-03T13:22:00"
     },
     {
         "Index": 14,
-        "Product Name": "Asus ZenBook 14",
-        "Product Image": "https://i.ibb.co/pbj7xN4/legion-slim-5-16ahp9-05-500x500.webp",
+        "Product_Name": "Asus ZenBook 14",
+        "Product_Image": "https://i.ibb.co/pbj7xN4/legion-slim-5-16ahp9-05-500x500.webp",
         "Description": "A compact and powerful laptop with a stunning display.",
         "Price": 1199.99,
         "Category": "Ultrabook",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-08-02T14:35:00"
+        "Product_Creation_date_and_time": "2024-08-02T14:35:00"
     },
     {
         "Index": 15,
-        "Product Name": "HP Omen 15",
-        "Product Image": "https://i.ibb.co/jZ0WHwy/rog-strix-g15-g513qm-01-500x500.jpg",
+        "Product_Name": "HP Omen 15",
+        "Product_Image": "https://i.ibb.co/jZ0WHwy/rog-strix-g15-g513qm-01-500x500.jpg",
         "Description": "A gaming laptop with powerful hardware and a customizable design.",
         "Price": 1499.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-08-01T17:18:00"
+        "Product_Creation_date_and_time": "2024-08-01T17:18:00"
     },
     {
         "Index": 16,
-        "Product Name": "Lenovo Yoga C940",
-        "Product Image": "https://i.ibb.co/hB9r79k/rog-strix-g15-g513rm-05-500x500.jpg",
+        "Product_Name": "Lenovo Yoga C940",
+        "Product_Image": "https://i.ibb.co/hB9r79k/rog-strix-g15-g513rm-05-500x500.jpg",
         "Description": "A 2-in-1 laptop with a flexible design and vibrant display.",
         "Price": 1399.99,
         "Category": "Convertible",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-31T12:12:00"
+        "Product_Creation_date_and_time": "2024-07-31T12:12:00"
     },
     {
         "Index": 17,
-        "Product Name": "Acer Aspire 5",
-        "Product Image": "https://i.ibb.co/2jng8ZD/rog-strix-g15-g513rm-06-500x500.jpg",
+        "Product_Name": "Acer Aspire 5",
+        "Product_Image": "https://i.ibb.co/2jng8ZD/rog-strix-g15-g513rm-06-500x500.jpg",
         "Description": "A budget-friendly laptop with good performance for everyday tasks.",
         "Price": 499.99,
         "Category": "Budget Laptop",
         "Ratings": 4.3,
-        "Product Creation date and time": "2024-07-30T09:55:00"
+        "Product_Creation_date_and_time": "2024-07-30T09:55:00"
     },
     {
         "Index": 18,
-        "Product Name": "Microsoft Surface Book 3",
-        "Product Image": "https://i.ibb.co/4JTV9NG/rog-strix-g15-g513rm-07-500x500.jpg",
+        "Product_Name": "Microsoft Surface Book 3",
+        "Product_Image": "https://i.ibb.co/4JTV9NG/rog-strix-g15-g513rm-07-500x500.jpg",
         "Description": "A powerful laptop with a detachable touchscreen for versatility.",
         "Price": 2299.99,
         "Category": "Convertible",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-07-29T16:20:00"
+        "Product_Creation_date_and_time": "2024-07-29T16:20:00"
     },
     {
         "Index": 19,
-        "Product Name": "Samsung Galaxy Book Pro",
-        "Product Image": "https://i.ibb.co/Mn7SXkk/ideapad-flex-5-14alc7-500x500.webp",
+        "Product_Name": "Samsung Galaxy Book Pro",
+        "Product_Image": "https://i.ibb.co/Mn7SXkk/ideapad-flex-5-14alc7-500x500.webp",
         "Description": "A thin and light laptop with an AMOLED display and long battery life.",
         "Price": 1249.99,
         "Category": "Ultrabook",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-28T15:05:00"
+        "Product_Creation_date_and_time": "2024-07-28T15:05:00"
     },
     {
         "Index": 20,
-        "Product Name": "Asus VivoBook S15",
-        "Product Image": "https://i.ibb.co/GnwCc3Z/tuf-dash-f15-fx517ze-01-500x500.webp",
+        "Product_Name": "Asus VivoBook S15",
+        "Product_Image": "https://i.ibb.co/GnwCc3Z/tuf-dash-f15-fx517ze-01-500x500.webp",
         "Description": "A stylish and affordable laptop with a vivid display.",
         "Price": 749.99,
         "Category": "Mid-range Laptop",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-26T12:45:00"
+        "Product_Creation_date_and_time": "2024-07-26T12:45:00"
     },
     {
         "Index": 21,
-        "Product Name": "HP Envy 13",
-        "Product Image": "https://i.ibb.co/DkJBspC/blade-15-advanced-model-01-500x500.jpg",
+        "Product_Name": "HP Envy 13",
+        "Product_Image": "https://i.ibb.co/DkJBspC/blade-15-advanced-model-01-500x500.jpg",
         "Description": "A premium laptop with a sleek design and powerful performance.",
         "Price": 1149.99,
         "Category": "Ultrabook",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-25T16:50:00"
+        "Product_Creation_date_and_time": "2024-07-25T16:50:00"
     },
     {
         "Index": 22,
-        "Product Name": "Dell G5 15",
-        "Product Image": "https://i.ibb.co/tmqkL5t/inbook-x2-06-500x500.webp",
+        "Product_Name": "Dell G5 15",
+        "Product_Image": "https://i.ibb.co/tmqkL5t/inbook-x2-06-500x500.webp",
         "Description": "A budget-friendly gaming laptop with solid performance.",
         "Price": 999.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-24T14:30:00"
+        "Product_Creation_date_and_time": "2024-07-24T14:30:00"
     },
     {
         "Index": 23,
-        "Product Name": "Acer Predator Helios 300",
-        "Product Image": "https://i.ibb.co/Dt6yzPj/macbook-air-13-inch-m3-starlight-01-500x500.webp",
+        "Product_Name": "Acer Predator Helios 300",
+        "Product_Image": "https://i.ibb.co/Dt6yzPj/macbook-air-13-inch-m3-starlight-01-500x500.webp",
         "Description": "A high-performance gaming laptop with advanced cooling.",
         "Price": 1399.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-23T12:00:00"
+        "Product_Creation_date_and_time": "2024-07-23T12:00:00"
     },
     {
         "Index": 24,
-        "Product Name": "Lenovo IdeaPad Flex 5",
-        "Product Image": "https://i.ibb.co/j5X3t8Y/macbook-air-13-inch-m3-starlight-02-500x500.webp",
+        "Product_Name": "Lenovo IdeaPad Flex 5",
+        "Product_Image": "https://i.ibb.co/j5X3t8Y/macbook-air-13-inch-m3-starlight-02-500x500.webp",
         "Description": "A versatile 2-in-1 laptop with a durable design.",
         "Price": 649.99,
         "Category": "Convertible",
         "Ratings": 4.4,
-        "Product Creation date and time": "2024-07-22T10:15:00"
+        "Product_Creation_date_and_time": "2024-07-22T10:15:00"
     },
     {
         "Index": 25,
-        "Product Name": "Microsoft Surface Pro 7",
-        "Product Image": "https://i.ibb.co/KL1XcDg/macbook-air-13-inch-m3-starlight-03-500x500.webp",
+        "Product_Name": "Microsoft Surface Pro 7",
+        "Product_Image": "https://i.ibb.co/KL1XcDg/macbook-air-13-inch-m3-starlight-03-500x500.webp",
         "Description": "A versatile tablet-laptop hybrid with a detachable keyboard.",
         "Price": 899.99,
         "Category": "Convertible",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-07-21T11:50:00"
+        "Product_Creation_date_and_time": "2024-07-21T11:50:00"
     },
     {
         "Index": 26,
-        "Product Name": "Asus Chromebook Flip C434",
-        "Product Image": "https://i.ibb.co/6FV0J4W/macbook-air-13-inch-m3-starlight-04-500x500.webp",
+        "Product_Name": "Asus Chromebook Flip C434",
+        "Product_Image": "https://i.ibb.co/6FV0J4W/macbook-air-13-inch-m3-starlight-04-500x500.webp",
         "Description": "A premium Chromebook with a 360-degree hinge and stylish design.",
         "Price": 579.99,
         "Category": "Chromebook",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-20T14:22:00"
+        "Product_Creation_date_and_time": "2024-07-20T14:22:00"
     },
     {
         "Index": 27,
-        "Product Name": "Dell Latitude 7420",
-        "Product Image": "https://i.ibb.co/6XZwq6t/macbook-air-13-inch-m3-starlight-05-500x500.webp",
+        "Product_Name": "Dell Latitude 7420",
+        "Product_Image": "https://i.ibb.co/6XZwq6t/macbook-air-13-inch-m3-starlight-05-500x500.webp",
         "Description": "A business laptop with enterprise-grade security and performance.",
         "Price": 1899.99,
         "Category": "Business Laptop",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-19T16:10:00"
+        "Product_Creation_date_and_time": "2024-07-19T16:10:00"
     },
     {
         "Index": 28,
-        "Product Name": "HP Pavilion x360",
-        "Product Image": "https://i.ibb.co/zrwn80C/macbook-pro-14-inch-silver-01-500x500.webp",
+        "Product_Name": "HP Pavilion x360",
+        "Product_Image": "https://i.ibb.co/zrwn80C/macbook-pro-14-inch-silver-01-500x500.webp",
         "Description": "A budget-friendly 2-in-1 laptop with solid performance.",
         "Price": 699.99,
         "Category": "Convertible",
         "Ratings": 4.4,
-        "Product Creation date and time": "2024-07-18T13:15:00"
+        "Product_Creation_date_and_time": "2024-07-18T13:15:00"
     },
     {
         "Index": 29,
-        "Product Name": "Lenovo Legion 5 Pro",
-        "Product Image": "https://i.ibb.co/1ZSZtgg/modern-14-c12m-01-500x500.webp",
+        "Product_Name": "Lenovo Legion 5 Pro",
+        "Product_Image": "https://i.ibb.co/1ZSZtgg/modern-14-c12m-01-500x500.webp",
         "Description": "A gaming laptop with a high-refresh-rate display and powerful hardware.",
         "Price": 1749.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-17T14:50:00"
+        "Product_Creation_date_and_time": "2024-07-17T14:50:00"
     },
     {
         "Index": 30,
-        "Product Name": "Acer Spin 5",
-        "Product Image": "https://i.ibb.co/cQcfLrX/modern-14-c12mo-urban-silver-01-500x500.webp",
+        "Product_Name": "Acer Spin 5",
+        "Product_Image": "https://i.ibb.co/cQcfLrX/modern-14-c12mo-urban-silver-01-500x500.webp",
         "Description": "A versatile 2-in-1 laptop with a lightweight design and good battery life.",
         "Price": 849.99,
         "Category": "Convertible",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-16T11:20:00"
+        "Product_Creation_date_and_time": "2024-07-16T11:20:00"
     },
     {
         "Index": 31,
-        "Product Name": "Asus TUF Gaming F15",
-        "Product Image": "https://i.ibb.co/nwGYV90/modern-14-c12mo-urban-silver-02-500x500.webp",
+        "Product_Name": "Asus TUF Gaming F15",
+        "Product_Image": "https://i.ibb.co/nwGYV90/modern-14-c12mo-urban-silver-02-500x500.webp",
         "Description": "A budget-friendly gaming laptop with durable build quality.",
         "Price": 999.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-07-15T10:45:00"
+        "Product_Creation_date_and_time": "2024-07-15T10:45:00"
     },
     {
         "Index": 32,
-        "Product Name": "HP Elite Dragonfly",
-        "Product Image": "https://i.ibb.co/6vMDZtp/surface-laptop-7th-edition-platinum-01-500x500.webp",
+        "Product_Name": "HP Elite Dragonfly",
+        "Product_Image": "https://i.ibb.co/6vMDZtp/surface-laptop-7th-edition-platinum-01-500x500.webp",
         "Description": "A premium business laptop with an ultra-light design and long battery life.",
         "Price": 2199.99,
         "Category": "Business Laptop",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-07-14T12:30:00"
+        "Product_Creation_date_and_time": "2024-07-14T12:30:00"
     },
     {
         "Index": 33,
-        "Product Name": "Lenovo ThinkPad L14",
-        "Product Image": "https://i.ibb.co/cT9vbQ7/surface-laptop-7th-edition-platinum-05-500x500.webp",
+        "Product_Name": "Lenovo ThinkPad L14",
+        "Product_Image": "https://i.ibb.co/cT9vbQ7/surface-laptop-7th-edition-platinum-05-500x500.webp",
         "Description": "A reliable business laptop with enterprise features and durability.",
         "Price": 1249.99,
         "Category": "Business Laptop",
         "Ratings": 4.6,
-        "Product Creation date and time": "2024-07-13T14:15:00"
+        "Product_Creation_date_and_time": "2024-07-13T14:15:00"
     },
     {
         "Index": 34,
-        "Product Name": "Google Pixelbook",
-        "Product Image": "https://i.ibb.co/n39dW4h/surface-laptop-studio-2-01-500x500.webp",
+        "Product_Name": "Google Pixelbook",
+        "Product_Image": "https://i.ibb.co/n39dW4h/surface-laptop-studio-2-01-500x500.webp",
         "Description": "A premium Chromebook with a sleek design and fast performance.",
         "Price": 999.99,
         "Category": "Chromebook",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-12T11:50:00"
+        "Product_Creation_date_and_time": "2024-07-12T11:50:00"
     },
     {
         "Index": 35,
-        "Product Name": "Dell XPS 15",
-        "Product Image": "https://i.ibb.co/kDBsSk2/surface-laptop-studio-2-02-500x500.webp",
+        "Product_Name": "Dell XPS 15",
+        "Product_Image": "https://i.ibb.co/kDBsSk2/surface-laptop-studio-2-02-500x500.webp",
         "Description": "A high-performance laptop with a stunning 4K display and powerful hardware.",
         "Price": 1999.99,
         "Category": "Ultrabook",
         "Ratings": 4.8,
-        "Product Creation date and time": "2024-07-11T14:30:00"
+        "Product_Creation_date_and_time": "2024-07-11T14:30:00"
     },
     {
         "Index": 36,
-        "Product Name": "Microsoft Surface Laptop Go",
-        "Product Image": "https://i.ibb.co/568xKFR/yoga-9-14irp8-01-500x500.webp",
+        "Product_Name": "Microsoft Surface Laptop Go",
+        "Product_Image": "https://i.ibb.co/568xKFR/yoga-9-14irp8-01-500x500.webp",
         "Description": "A compact and affordable laptop with a premium design.",
         "Price": 649.99,
         "Category": "Ultrabook",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-10T11:45:00"
+        "Product_Creation_date_and_time": "2024-07-10T11:45:00"
     },
     {
         "Index": 37,
-        "Product Name": "Asus ROG Strix G15",
-        "Product Image": "https://i.ibb.co/b28VQBX/yoga-9-14irp8-03-500x500.webp",
+        "Product_Name": "Asus ROG Strix G15",
+        "Product_Image": "https://i.ibb.co/b28VQBX/yoga-9-14irp8-03-500x500.webp",
         "Description": "A gaming laptop with customizable RGB lighting and powerful hardware.",
         "Price": 1499.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.7,
-        "Product Creation date and time": "2024-07-09T13:55:00"
+        "Product_Creation_date_and_time": "2024-07-09T13:55:00"
     },
     {
         "Index": 38,
-        "Product Name": "HP Chromebook 14",
-        "Product Image": "https://i.ibb.co/Pt36YGW/surface-pro-9-sq3-05-500x500.webp",
+        "Product_Name": "HP Chromebook 14",
+        "Product_Image": "https://i.ibb.co/Pt36YGW/surface-pro-9-sq3-05-500x500.webp",
         "Description": "An affordable and lightweight Chromebook with a durable design.",
         "Price": 349.99,
         "Category": "Chromebook",
         "Ratings": 4.3,
-        "Product Creation date and time": "2024-07-08T11:22:00"
+        "Product_Creation_date_and_time": "2024-07-08T11:22:00"
     },
     {
         "Index": 39,
-        "Product Name": "Apple MacBook Pro 13\" M1",
-        "Product Image": "https://i.ibb.co/HxT8Vpc/yoga-9-14irp8-04-500x500.webp",
+        "Product_Name": "Apple MacBook Pro 13\" M1",
+        "Product_Image": "https://i.ibb.co/HxT8Vpc/yoga-9-14irp8-04-500x500.webp",
         "Description": "A powerful laptop with the M1 chip and a compact design.",
         "Price": 1299.99,
         "Category": "Pro Laptop",
         "Ratings": 4.9,
-        "Product Creation date and time": "2024-07-07T10:40:00"
+        "Product_Creation_date_and_time": "2024-07-07T10:40:00"
     },
     {
         "Index": 40,
-        "Product Name": "Acer Nitro 5",
-        "Product Image": "https://i.ibb.co/GRxTyqt/yoga-9-14irp8-06-500x500.webp",
+        "Product_Name": "Acer Nitro 5",
+        "Product_Image": "https://i.ibb.co/GRxTyqt/yoga-9-14irp8-06-500x500.webp",
         "Description": "A budget-friendly gaming laptop with good performance for the price.",
         "Price": 899.99,
         "Category": "Gaming Laptop",
         "Ratings": 4.5,
-        "Product Creation date and time": "2024-07-06T15:30:00"
+        "Product_Creation_date_and_time": "2024-07-06T15:30:00"
     }
 ]

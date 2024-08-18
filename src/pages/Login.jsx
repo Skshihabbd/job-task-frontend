@@ -8,6 +8,7 @@ console.log(name)
 
     return (
         <div className="flex flex-col md:flex-row w-full lg:h-screen justify-around  ">
+          
         <div className=" my-auto bg-no-repeat bg-cover md:w-6/12 md:h-screen  md:bg-[url('https://media.licdn.com/dms/image/C560BAQGTJDv2cJ7Plw/company-logo_200_200/0/1630643699365/login_logo?e=2147483647&v=beta&t=GEB-hqn_FAJ71E1UXhD9t-3SbzWFPj2LMGqDL-_5RUI')]">
           
         </div>

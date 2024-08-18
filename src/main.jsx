@@ -9,6 +9,7 @@ import Registration from "./pages/Registration";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Authorization from "./pages/Authorization";
+import Products from "./pages/Products";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       },
       { path: "registration", 
         element: <Registration /> 
+      },
+      {
+        path:'product',
+        element:<Products></Products>
       },
     ],
   },
